@@ -34,9 +34,10 @@ Elasticsearch Index (rides_demo)
 └── README.md
 
 🚨Future Enhancements
-Add Kibana dashboards for surge heatmaps
-Dockerize the entire pipeline
-Deploy on Kubernetes
+
+1.Add Kibana dashboards for surge heatmaps
+2.Dockerize the entire pipeline
+3.Deploy on Kubernetes
 
 👤 Author
 Shivani Jain
